@@ -3,4 +3,4 @@ This Python script is released with the paper: LIU Qing-bin, PAN Mao, LIU Jie, G
 
 We suggest the samples from https://github.com/Liujie-SYSU/odb2vtk/tree/master/Samples to learn the script.
 
-Note: Some modifications to script is necessary when handle diffrent mission.
+Note: Some modifications to script is necessary when handle different mission.
